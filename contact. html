@@ -41,7 +41,7 @@
 <section class="hero"
 style="
 background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
-url('images/chicken2.jpg');
+url('images/image2.jpg');
 background-size: cover;
 background-position: center;
 height: 60vh;
@@ -89,7 +89,7 @@ height: 60vh;
 
             <p><strong>Farm:</strong> Eric's Poultry Farm</p>
             <p><strong>Location:</strong> Nakuru, Kenya</p>
-            <p><strong>Phone:</strong> +254 700 000 000</p>
+            <p><strong>Phone:</strong> +254 743 402 068</p>
             <p><strong>Email:</strong> info@ericspoultryfarm.com</p>
 
             <hr style="margin:15px 0;">
@@ -127,7 +127,7 @@ height: 60vh;
 
     <p>Click below to chat with us directly on WhatsApp</p>
 
-    <a href="https://wa.me/254700000000"
+    <a href="https://wa.me/25474340268"
     class="btn"
     target="_blank">
         Chat on WhatsApp
